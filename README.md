@@ -44,10 +44,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tsz724/tsz724/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<p align="left">https://drive.google.com/drive/folders/1Uu-QNElWTjNoHz1IUVGqrgrV6gVP2Z0t?usp=sharing</p>
+<p align="left">https://drive.google.com/file/d/1lCS-SSi0wmltrKyZ4nCnxcQqJ3o3osSY/view?usp=sharing</p>
+<p align="left">https://drive.google.com/drive/folders/1Dmrr4rc4kYasxgSbNczAWGEErFQqKGFE?usp=sharing</p>
 
 ###
